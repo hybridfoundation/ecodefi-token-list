@@ -1,0 +1,76 @@
+{
+    "name": "EcoDefi Default List",
+    "timestamp": "2023-11-14T04:39:23.646Z",
+    "version": {
+      "major": 12,
+      "minor": 0,
+      "patch": 0
+    },
+    "tags": {},
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xB1f66997A5760428D3a87D68b90BfE0aE64121cC/logo.png",
+    "keywords": [
+      "ecodefi",
+      "default"
+    ],
+    "tokens": [
+  
+      {
+        "name": "HybridChain",
+        "address": "0xe9ab7a6141dc50d5be59ceac06f5ac38a0f2fead",
+        "symbol": "HRC",
+        "decimals": 18,
+        "chainId": 1,
+        "logoURI": "https://hybridchain.ai/images/token/0xe9ab7a6141dc50d5be59ceac06f5ac38a0f2fead.png"
+      },
+      {
+        "name": "SushiToken",
+        "address": "0x6B3595068778DD592e39A122f4f5a5cF09C90fE2",
+        "symbol": "SUSHI",
+        "decimals": 18,
+        "chainId": 1,
+        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6B3595068778DD592e39A122f4f5a5cF09C90fE2/logo.png"
+      },
+
+      {
+        "name": "Uniswap",
+        "address": "0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984",
+        "symbol": "UNI",
+        "decimals": 18,
+        "chainId": 1,
+        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984/logo.png"
+      },
+      {
+        "name": "USDCoin",
+        "address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+        "symbol": "USDC",
+        "decimals": 6,
+        "chainId": 1,
+        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
+      },
+      {
+        "name": "Tether USD",
+        "address": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+        "symbol": "USDT",
+        "decimals": 6,
+        "chainId": 1,
+        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
+      },
+      {
+        "name": "Wrapped BTC",
+        "address": "0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599",
+        "symbol": "WBTC",
+        "decimals": 8,
+        "chainId": 1,
+        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599/logo.png"
+      },
+      {
+        "name": "Wrapped Ether",
+        "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "symbol": "WETH",
+        "decimals": 18,
+        "chainId": 1,
+        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
+      }
+    
+    ]
+  }
